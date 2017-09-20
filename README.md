@@ -3,7 +3,9 @@ Convert any alphanumeric range (ex. AAA - BAC) to an equivalent regex (regular e
 
 
 To use: 
+
 python range2regex.py <RANGE_START> <RANGE_END> 
 
-Example: 
+Example:
+ 
 python range2regex.py AAA BAC
